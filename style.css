@@ -6,7 +6,7 @@
 }
 .center {
     text-align: center;
-    line-height: 400px;
+    margin: 180px;
     font-size: 30px;
 }
 .elo {
@@ -18,10 +18,16 @@
     display: flex;
     flex-wrap: wrap;
     float: right;
+    user-select: none;
 }
-.flex-container > div {
-    width: 150px;
+.menu {
+    width: 120px;
     margin: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.empty {
+    width: 40px;
     text-align: center;
     font-size: 30px;
 }
