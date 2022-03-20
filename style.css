@@ -1,0 +1,32 @@
+*
+{
+    background-color: #1A1A1A;
+}
+
+#wrapper {
+    width: auto;
+    overflow: hidden;
+    color: white;
+    margin-top: 2%;
+}
+#logo {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: auto;
+    float:left;
+    font-size: 200%;
+    text-align: center;
+    margin-left: 100px;
+}
+#empty {
+    width: auto;
+    float:left;
+    border: 1px solid #1A1A1A;
+}
+#button {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: auto;
+    float:right;
+    font-size: 200%;
+    text-align: center;
+    margin-right: 100px;
+}
