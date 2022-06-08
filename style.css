@@ -6,8 +6,14 @@
 }
 .center {
     text-align: center;
-    margin-top: 180px;
+    margin-top: 10px;
     font-size: 30px;
+}
+.play {
+    text-align: center;
+}
+img {
+    width: 256px;
 }
 .elo {
     display: flexbox;
