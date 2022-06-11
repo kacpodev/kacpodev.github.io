@@ -1,42 +1,64 @@
 *
 {
+    margin: 0;
     background-color: #1A1A1A;
     color: white;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .center {
     text-align: center;
-    margin-top: 10px;
     font-size: 30px;
+    background-color: transparent;
 }
 .play {
     text-align: center;
+    background-color: transparent;
 }
 img {
     width: 256px;
+    background-color: transparent;
 }
 .elo {
     display: flexbox;
     flex-wrap: wrap;
-    height: 82px;
+    height: 84px;
+    background-color: #232323;
 }
 .flex-container {
     display: flex;
     flex-wrap: wrap;
     float: right;
     user-select: none;
+    background-color: transparent;
 }
 .menu {
     width: 120px;
     margin: 20px;
     text-align: center;
     font-size: 30px;
+    background-color: transparent;
 }
 .empty {
-    width: 40px;
+    width: 20px;
     text-align: center;
     font-size: 30px;
+    background-color: transparent;
 }
 a {
     text-decoration: none;
+    background-color: transparent;
+}
+.game1 {
+    margin: 0px;
+    padding: 0px;
+    background-color: #191919;
+}
+.game2 {
+    background-color: #1E1E1E;
+}
+.title {
+    text-align: center;
+    font-size: 30px;
+    background-color: transparent;
+    padding: 10px;
 }
