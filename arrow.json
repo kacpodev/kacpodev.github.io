@@ -12,5 +12,23 @@
   "- krwawienie skaluje się teraz z obrażeniami",
   "- prędkość ataku żółtego itema: [color=lime]0.5 -> 1[/color]",
   "- nerf pewnego pokoju",
- ]
+ ],
+ 
+ "update2": "0.3.0",
+ "update2_changes_pl": [
+  "- test",
+ ],
+ 
+ "update1": "0.2.0",
+ "update1_changes_pl": [
+  "- nowe piętro",
+  "- nowy mob",
+  "- nowy boss",
+  "- 4 nowe itemy",
+  "- 20% szansy na otrzymanie leczenia zamiast pieniędzy",
+  "- krwawienie skaluje się teraz z obrażeniami",
+  "- prędkość ataku żółtego itema: [color=lime]0.5 -> 1[/color]",
+  "- nerf pewnego pokoju",
+ ],
+ 
 }
