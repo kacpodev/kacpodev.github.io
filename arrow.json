@@ -15,25 +15,30 @@
  ],
  
  "update2": "0.3.0",
+ "update2_changes_en": [
+  "- test",
+ ],
  "update2_changes_pl": [
   "- test",
  ],
  
  "update1": "0.2.0",
+ "update1_changes_en": [
+  "- new floor",
+  "- new enemy",
+  "- new boss",
+  "- 4 new items",
+  "- 20% chance to heal instead of getting coins",
+  "- yellow item's attack speed: [color=lime]0.5 -> 1[/color]",
+  ],
  "update1_changes_pl": [
   "- nowe piętro",
-  "- nowy mob",
+  "- nowy przeciwnik",
   "- nowy boss",
   "- 4 nowe itemy",
   "- 20% szansy na otrzymanie leczenia zamiast pieniędzy",
   "- krwawienie skaluje się teraz z obrażeniami",
   "- prędkość ataku żółtego itema: [color=lime]0.5 -> 1[/color]",
-  "- nerf pewnego pokoju",
- ],
- 
- "update0": "0.1.0",
- "update0_changes_pl": [
-  "- pierwszy test",
  ],
  
 }
