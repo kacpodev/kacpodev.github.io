@@ -13,21 +13,14 @@
   "- prędkość ataku żółtego itema: [color=lime]0.5 -> 1[/color]",
   "- nerf pewnego pokoju",
  ],
- 
- "update3": "0.3.0",
- "update3_changes_en": [
-  "- test",
- ],
- "update3_changes_pl": [
-  "- test",
- ],
- 
+
  "update2": "0.3.0",
  "update2_changes_en": [
   "- test",
  ],
  "update2_changes_pl": [
-  "- test",
+  "- ? nowych itemów",
+  "- nowe poziomy na każdym piętrze",
  ],
  
  "update1": "0.2.0",
