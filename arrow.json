@@ -7,6 +7,17 @@
   "nowa wersja dostępna"
  ],
 
+ "update-3": "0.3.0",
+ "update-3_changes_pl": [
+  "- nowe piętro",
+  "- nowy wróg",
+  "- nowy boss",
+  "- nowy rodzaj pokoju",
+  "- mała zmiana [color=yellow]żółtego bossa[/color]",
+  "- [color=aqua]niebieski boss otrzymał nowy atak[/color]",
+  "- nowe itemy",
+ ],
+ 
  "update2": "0.2.1",
  "update2_changes_en": [
   "- music",
