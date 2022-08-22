@@ -7,6 +7,17 @@
   "nowa wersja dostępna"
  ],
 
+ "update_4": "0.4.0",
+ "update_4_changes_pl": [
+  "- nowe piętro",
+  "- nowy wróg",
+  "- nowy boss",
+  "- nowe itemy",
+  "- 2 nowe postacie",
+  "- zakończenie",
+  "- item niszczący pociski zastąpiony nowym",
+ ],
+ 
  "update3": "0.3.0",
  "update3_changes_pl": [
   "- nowe piętro",
@@ -15,7 +26,6 @@
   "- mała zmiana [color=yellow]żółtego bossa[/color]",
   "- buff [color=aqua]niebieskiego bossa[/color]",
   "- statystyki",
-  "- coś tam coś tam",
  ],
  
  "update2": "0.2.1",
