@@ -2,10 +2,10 @@
  "display": true,
  "update": "0.3.0",
  "changes_en": [
-  "none"
+  "- elo"
  ],
  "changes_pl": [
-  "nowa wersja dostępna"
+  "- elo"
  ],
 
  "update_4": "0.4.0",
@@ -33,12 +33,12 @@
   "- statystyki",
  ],
  "update3_changes_en": [
-  "- none",
+  "- elo",
  ],
  
  "update2": "0.2.1",
  "update2_changes_en": [
-  "- none",
+  "- elo",
  ],
  "update2_changes_pl": [
   "- muzyka",
@@ -47,7 +47,7 @@
  
  "update1": "0.2.0",
  "update1_changes_en": [
-  "- public release",
+  "- elo",
   ],
  "update1_changes_pl": [
   "- nowe piętro",
