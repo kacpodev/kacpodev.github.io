@@ -8,19 +8,20 @@
   "- elo"
  ],
 
- "update_4": "0.4.0",
- "update_4_changes_pl": [
+ "update4": "0.4.0",
+ "update4_changes_pl": [
   "- nowe piętro",
   "- nowy wróg",
   "- nowy boss",
   "- nowe itemy",
   "- 2 nowe postacie",
-  "- nowe itemy",
+  "- 3 nowe itemy",
   "- zakończenie",
   "- globalne statystyki",
+  "- nerfy kilku poziomów",
   "- usunięto item niszczący pociski",
  ],
- "update_4_changes_en": [
+ "update4_changes_en": [
   "- none",
  ],
  
