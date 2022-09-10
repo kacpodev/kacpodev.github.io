@@ -1,13 +1,21 @@
 {
  "display": true,
- "update": "0.4.0",
+ "update": "0.4.1",
  "changes_en": [
   "- elo"
  ],
  "changes_pl": [
   "- elo"
  ],
-
+ 
+ "update5": "0.4.1",
+ "update5_changes_pl": [
+  "- 3 nowe itemy",
+ ],
+ "update5_changes_en": [
+  "- none",
+ ],
+ 
  "update4": "0.4.0",
  "update4_changes_pl": [
   "- nowe piętro",
