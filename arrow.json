@@ -8,6 +8,15 @@
   "- elo"
  ],
  
+ "update_6": "0.5.0",
+ "update_6_changes_pl": [
+  "- umiejętność [color=#ffa000]pomarańczowej[/color] postaci zmieniona na: [color=yellow]wydaj 1 monetę, aby zabić 3 losowych wrogów[/color]",
+  "- nowe itemy",
+ ],
+ "update5_changes_en": [
+  "- none",
+ ],
+ 
  "update5": "0.4.1",
  "update5_changes_pl": [
   "- 3 nowe itemy",
