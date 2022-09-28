@@ -1,6 +1,6 @@
 {
  "display": true,
- "update": "0.4.1",
+ "update": "0.5.0",
  "changes_en": [
   "- elo"
  ],
@@ -19,7 +19,7 @@
   "- zmiany wizualne",
  ],
  "update_6_changes_en": [
-  "- none",
+  "- elo"
  ],
  
  "update5": "0.4.1",
@@ -27,7 +27,7 @@
   "- 3 nowe itemy",
  ],
  "update5_changes_en": [
-  "- none",
+  "- elo"
  ],
  
  "update4": "0.4.0",
@@ -44,7 +44,7 @@
   "- usunięto item niszczący pociski",
  ],
  "update4_changes_en": [
-  "- none",
+  "- elo"
  ],
  
  "update3": "0.3.0",
