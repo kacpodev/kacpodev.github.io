@@ -1,6 +1,6 @@
 {
  "display": true,
- "update": "0.5.0",
+ "update": "0.5.1",
  "changes_en": [
   "- elo"
  ],
@@ -8,13 +8,13 @@
   "- elo"
  ],
  
-"update_7": "0.5.1",
- "update_7_changes_pl": [
+"update7": "0.5.1",
+ "update7_changes_pl": [
   "- nowa postać",
   "- 7 nowych itemów",
   "- umiejętność [color=#ffa000]pomarańczowej[/color] postaci nie zabija już boga",
  ],
- "update_7_changes_en": [
+ "update7_changes_en": [
   "- elo"
  ],
  
