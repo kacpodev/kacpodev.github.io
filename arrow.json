@@ -10,6 +10,7 @@
  
  "update8": "0.5.2",
  "update8_changes_pl": [
+  "- naprawiono skalowanie prędkości wrogów",
   "- dodano brakującą teksturę",
  ],
  "update8_changes_en": [
