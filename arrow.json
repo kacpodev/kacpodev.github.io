@@ -12,7 +12,7 @@
  "update_9_changes_pl": [
   "- poprawiono powiększające pociski",
   "- czas działania zegara: 3s -> 4s",
-  "- zegar zapewnia również prędkość ruchu",
+  "- zegar zapewnia dodatkową prędkość ruchu",
   "- czas odnowienia umięjętności [color=lime]zielonej[/color] postaci: [color=lime]5 -> 4[/color]", 
   "- wielkość aury [color=#ff00ff]różowej[/color] postaci: [color=lime]1.1 -> 1.25[/color]",
  ],
