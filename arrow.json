@@ -1,6 +1,6 @@
 {
  "display": true,
- "update": "0.5.2",
+ "update": "0.5.3",
  "changes_en": [
   "- elo"
  ],
@@ -8,15 +8,15 @@
   "- elo"
  ],
  
- "update_9": "0.5.3",
- "update_9_changes_pl": [
+ "update9": "0.5.3",
+ "update9_changes_pl": [
   "- poprawiono powiększające pociski",
   "- czas działania zegara: 3s -> 4s",
   "- zegar zapewnia dodatkową prędkość ruchu",
   "- czas odnowienia umięjętności [color=lime]zielonej[/color] postaci: [color=lime]5 -> 4[/color]", 
   "- wielkość aury [color=#ff00ff]różowej[/color] postaci: [color=lime]1.1 -> 1.25[/color]",
  ],
- "update_9_changes_en": [
+ "update9_changes_en": [
   "- elo"
  ],
  
