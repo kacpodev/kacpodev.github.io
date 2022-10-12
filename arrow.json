@@ -1,6 +1,6 @@
 {
  "display": true,
- "update": "0.5.3",
+ "update": "0.5.4",
  "changes_en": [
   "- elo"
  ],
@@ -8,16 +8,16 @@
   "- elo"
  ],
  
- "update_10": "0.5.4",
- "update_10_changes_pl": [
-  "- 25 nowych poziomów",
-  "- 5 nowych itemów",
+ "update10": "0.5.4",
+ "update10_changes_pl": [
+  "- 6 nowych itemów",
+  "- kilka nowych nowych poziomów",
   "- nie otrzymanie obrażeń na 1 piętrze gwarantuje 20 monet",
   "- zmieniono kilka poziomów",
   "- zmieniono wymóg odblokowania [color=#ff00ff]różowej[/color] postaci: [color=lime]odblokuj 1 zakończenie -> uzyskaj wynik 400 lub większy[/color]",
   "- zmieniono wymóg odblokowania [color=#0000ff]niebieskiej[/color] postaci: [color=lime]odblokuj 2 zakończenia -> odblokuj 1 zakończenie[/color]",
  ],
- "update_10_changes_en": [
+ "update10_changes_en": [
   "- elo"
  ],
  
