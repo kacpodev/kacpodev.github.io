@@ -10,9 +10,10 @@
  
  "update_10": "0.5.4",
  "update_10_changes_pl": [
-  "- 25 nowych pokojów",
+  "- 25 nowych poziomów",
   "- 5 nowych itemów",
   "- nie otrzymanie obrażeń na 1 piętrze gwarantuje 20 monet",
+  "- zmieniono kilka poziomów",
   "- zmieniono wymóg odblokowania [color=#ff00ff]różowej[/color] postaci: [color=lime]odblokuj 1 zakończenie -> uzyskaj wynik 400 lub większy[/color]",
   "- zmieniono wymóg odblokowania [color=#0000ff]niebieskiej[/color] postaci: [color=lime]odblokuj 2 zakończenia -> odblokuj 1 zakończenie[/color]",
  ],
