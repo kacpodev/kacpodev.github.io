@@ -10,8 +10,9 @@
  
  "update11": "0.5.5",
  "update11_changes_pl": [
-  "- dodano instrukcje sterowania",
+  "- usunięto broniącego przyjaciela z puli sklepu",
   "- koniczyna działa teraz również na leczenie po walce",
+  "- dodano instrukcje sterowania",
  ],
  "update11_changes_en": [
   "- elo"
