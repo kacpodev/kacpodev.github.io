@@ -1,72 +1,39 @@
 *
 {
     margin: 0;
-    background-color: #1A1A1A;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center
+{
+    height: 90%;
+    width: 100%;
+}
+.center a
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
     color: white;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 200%;
+    transform: translate(-50%, -50%);
 }
-.center {
+.top_bar
+{
+    overflow: auto;
+    margin: auto;
+    width: 30%;
+    padding: 1%;
+}
+.top_bar div
+{
+    float: left;
     text-align: center;
-    font-size: 30px;
-    background-color: transparent;
+    width: 50%;
 }
-.play {
-    padding: 0px;
-    text-align: center;
-    background-color: transparent;
-}
-img {
-    width: 256px;
-    background-color: transparent;
-}
-.elo {
-    display: flexbox;
-    flex-wrap: wrap;
-    height: 84px;
-    background-color: #232323;
-}
-.flex-container {
-    display: flex;
-    flex-wrap: wrap;
-    float: right;
-    user-select: none;
-    background-color: transparent;
-}
-.menu {
-    width: 120px;
-    margin: 20px;
-    text-align: center;
-    font-size: 30px;
-    background-color: transparent;
-}
-.empty {
-    width: 20px;
-    text-align: center;
-    font-size: 30px;
-    background-color: transparent;
-}
-a {
+.top_button
+{
+    font-size: 200%;
     text-decoration: none;
-    background-color: transparent;
-}
-.game1 {
-    background-color: #191919;
-}
-.game2 {
-    background-color: #1E1E1E;
-}
-.title {
-    text-align: center;
-    font-size: 40px;
-    background-color: transparent;
-    padding: 10px;
-}
-.ba {
-    width: 25%;
-}
-img {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    padding-left: 5px;
-    padding-right: 5px;
+    color: white;
 }
