@@ -1,5 +1,5 @@
 {
   "version": [0,1],
   "alert": "",
-  "disabled_items": ["medkit"],
+  "disabled_items": [],
 }
