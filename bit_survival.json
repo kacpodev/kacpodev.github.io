@@ -2,4 +2,5 @@
   "version": [0,12],
   "alert": "",
   "disabled_items": [],
+  "notes_en": ["-test 1", "-test 2"],
 }
