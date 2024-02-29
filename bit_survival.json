@@ -1,6 +1,6 @@
 {
-  "version": [0,12],
+  "version": [0,13],
   "alert": "",
   "disabled_items": [],
-  "notes_en": ["-test 1", "-test 2"],
+  "notes_en": [""],
 }
