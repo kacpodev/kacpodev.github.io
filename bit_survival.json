@@ -1,1 +1,5 @@
-
+{
+  "version": [0,13],
+  "alert": "",
+  "disabled_items": ["bomb"],
+}
